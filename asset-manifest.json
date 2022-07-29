@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/be-live/static/css/main.ff79ec8e.css",
+    "main.js": "/be-live/static/js/main.60e90fed.js",
+    "index.html": "/be-live/index.html",
+    "main.ff79ec8e.css.map": "/be-live/static/css/main.ff79ec8e.css.map",
+    "main.60e90fed.js.map": "/be-live/static/js/main.60e90fed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff79ec8e.css",
+    "static/js/main.60e90fed.js"
+  ]
+}
